@@ -1,4 +1,16 @@
 # Design a Number Container System: Sorting Numbers, One Box at a Time! 📦🔢
+
+### Tired of your numbers being all over the place? 😩📦
+Well, fear not! I’ve created a Number Container System to help you organize those digits like a pro. 🧑‍💻✨
+
+You can also check out the test cases to see how it all works in action! 🧪💡
+
+Check out the code on GitHub, and let’s put those numbers in their rightful boxes! 📚🔢
+
+Feel free to fork it, tweak it, or just admire the neatness of the system! 🤓🚀**
+
+👉 GitHub Repo: [The Number Container System](https://github.com/madiv9820/08_02_2025--2349_Design_a_Number_Container_System) 💻
+
 ### Intuition 🤔
 The idea behind the `NumberContainers` class is to manage a system where each container (index) can store a number. You can update (replace) the number at any given index, and you need to be able to find the smallest index where a given number is stored. 
 
